@@ -1,4 +1,4 @@
-module github.com/UtkarshVerma/hugo-modules/svg-icon-system
+module github.com/academic-folio/hugo-modules/svg-icon-system
 
 go 1.19
 
