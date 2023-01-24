@@ -27,6 +27,6 @@
             {{ end }}
         {{ end }}
         <img src="{{.RelPermalink}}" height="{{.Height}}" width="{{.Width}}"
-            type="{{.MediaType}}" {{$attributes|safeHTMLAttr}} />
+            {{$attributes|safeHTMLAttr}} />
     </picture>
 {{ end }}
